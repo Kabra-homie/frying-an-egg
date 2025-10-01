@@ -1,4 +1,4 @@
-# Cooking an Egg in C# 🥚🔥
+# Cooking an Egg in C#
 
 ## Description
 
@@ -9,7 +9,7 @@ The algorithm is written in plain language, showing each step to cook an egg.
 
 ---
 
-## Algorithm 📝
+## Algorithm 
 
 1. Either buy or get an egg  
 2. Go to the kitchen  
@@ -34,7 +34,7 @@ The algorithm is written in plain language, showing each step to cook an egg.
 
 ---
 
-## C# Implementation 💻
+## C# Implementation 
 
 The C# code can be found in the `/code` folder as `EggCooking.cs`.  
 It simply prints the steps of the algorithm to the console.
